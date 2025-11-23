@@ -1,0 +1,6 @@
+{
+	"parent": "create_reactive_stress:block/actual_flywheel/actual_flywheel",
+	"loader": "neoforge:obj",
+	"flip_v": true,
+	"model": "create_reactive_stress:models/block/actual_flywheel/actual_flywheel_shaftless.obj"
+}
